@@ -25,7 +25,7 @@
   padding: 20px;
   width: 200px;
   text-align: center;
-  transition-duration: 0.4s;
+  transition-duration: 0.2s;
   text-decoration: none;
   overflow: hidden;
   cursor: pointer;
@@ -43,7 +43,7 @@
   margin-left: -20px;
   margin-top: -120%;
   opacity: 0;
-  transition: all 0.8s
+  transition: all 0.4s
 }
 
 .button1:active:after {
@@ -61,7 +61,7 @@
   padding: 20px;
   width: 200px;
   text-align: center;
-  transition-duration: 0.4s;
+  transition-duration: 0.2s;
   text-decoration: none;
   overflow: hidden;
   cursor: pointer;
@@ -78,7 +78,7 @@
   margin-left: -20px;
   margin-top: -120%;
   opacity: 0;
-  transition: all 0.8s
+  transition: all 0.4s
 }
 
 .button2:active:after {
